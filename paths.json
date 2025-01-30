@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/tmobile/:/",
+    "/content/t-mobile/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json"
   ]
 }
