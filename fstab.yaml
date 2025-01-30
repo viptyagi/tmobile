@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1jiJhA8qsnXMScXHZqD_pcs3PlqrMps4y?usp=drive_link
+  /:
+    url: "https://author-p92368-e968987.adobeaemcloud.com/bin/franklin.delivery/viptyagi/tmobile/main"
+    type: "markup"
+    suffix: ".html"
